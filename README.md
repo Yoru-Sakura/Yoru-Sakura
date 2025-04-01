@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Yoru Sakura!
-I'm here to learn. As a learner, I'm currently learning various programming-related skills. I will share my projects, ideas and learning experience here!
+I'm here to learn on GitHub. As a learner, I'm currently learning various programming-related skills. I will share my projects, ideas and learning experience here!
 ## 🌱 I’m currently learning
 **HTML, CSS, JavaScript**
 <!--
