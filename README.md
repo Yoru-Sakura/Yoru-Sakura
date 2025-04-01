@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# 👋 Hello, I'm Yoru Sakura!
+I'm here to learn. As a learner, I'm currently learning various programming-related skills. I will share my projects, ideas and learning experience here!
+## 🌱 I’m currently learning
+**HTML, CSS, JavaScript**
 <!--
 **Yoru-Sakura/Yoru-Sakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
